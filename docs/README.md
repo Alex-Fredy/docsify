@@ -1,6 +1,6 @@
 ## docsify
 
-> A magical documentation site generator.
+> A magical documentation site generatorr.
 
 ## What it is
 
